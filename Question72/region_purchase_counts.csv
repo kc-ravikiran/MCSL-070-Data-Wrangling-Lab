@@ -1,0 +1,9 @@
+Region,Purchase,Count
+East,Yes,0
+East,No,1
+North,Yes,3
+North,No,0
+South,Yes,3
+South,No,0
+West,Yes,0
+West,No,3
