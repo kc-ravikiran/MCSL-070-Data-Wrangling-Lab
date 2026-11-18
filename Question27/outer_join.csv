@@ -1,0 +1,7 @@
+Emp_ID,Name,Department,Year,Region,Product,Sales,_merge
+1001,Alisha,Finance,2025.0,North,Laptop,50000.0,both
+1002,Ravi,IT,2026.0,,,,left_only
+1003,Neha,Finance,2024.0,East,Tablet,15000.0,both
+1004,,,,West,Laptop,52000.0,right_only
+1005,Priya,IT,2025.0,North,Phone,21000.0,both
+1006,Alvin,Finance,2024.0,South,Tablet,18000.0,both
