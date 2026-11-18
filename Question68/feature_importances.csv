@@ -1,0 +1,13 @@
+,Importance
+categorical__Region_South,0.0022675736961451248
+categorical__Category_Electronics,0.004251700680272108
+categorical__Category_Clothing,0.006292517006802722
+categorical__Category_Grocery,0.014852607709750568
+categorical__Region_East,0.015306122448979591
+categorical__Region_West,0.051658163265306124
+categorical__Region_North,0.06919642857142858
+numeric__Visits,0.15450680272108844
+numeric__Online Time,0.16723356009070295
+numeric__Age,0.1677295918367347
+numeric__Income,0.16847363945578228
+numeric__Spending Score,0.1782312925170068

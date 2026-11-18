@@ -1,0 +1,11 @@
+OID,Date,City,Region,Age,Category,Sales,Profit,Latitude,Longitude
+O01,2026-01-01,Delhi,North,25,Grocery,1500,200,28.61,77.23
+O02,2026-01-03,Mumbai,West,32,Electronics,12000,1500,19.07,72.87
+O03,2026-01-05,Chennai,South,28,Clothing,3500,500,13.08,80.27
+O04,2026-01-07,Kolkata,East,40,Grocery,2000,250,22.57,88.36
+O05,2026-01-09,Bangalore,South,35,Electronics,15000,2000,12.97,77.59
+O06,2026-01-11,Jaipur,North,29,Clothing,4000,600,26.91,75.79
+O07,2026-01-13,Pune,West,31,Grocery,1800,300,18.52,73.85
+O08,2026-01-15,Hyderabad,South,27,Electronics,11000,1300,17.38,78.48
+O09,2026-01-17,Ahmedabad,West,45,Clothing,5000,700,23.02,72.57
+O10,2026-01-19,Lucknow,North,38,Grocery,2200,350,26.85,80.95

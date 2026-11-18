@@ -1,0 +1,11 @@
+ID,Age,Income,Spending Score,Region,Category,Visits,Online Time,Purchase,Rating
+1,22,25000,65,North,Grocery,5,12,Yes,4.2
+2,35,55000,40,West,Electronics,2,8,No,3.8
+3,28,32000,70,South,Clothing,6,15,Yes,4.5
+4,45,75000,30,East,Grocery,3,6,No,3.5
+5,30,60000,80,South,Electronics,7,18,Yes,4.8
+6,26,40000,55,North,Clothing,4,10,Yes,4.1
+7,38,50000,45,West,Grocery,3,9,No,3.9
+8,29,45000,75,South,Electronics,6,16,Yes,4.6
+9,50,80000,35,West,Clothing,2,5,No,3.6
+10,33,52000,60,North,Grocery,5,11,Yes,4.3
